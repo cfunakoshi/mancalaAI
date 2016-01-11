@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HumanPlayer()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ HumanPlayer\n
+comment1.params=currentState
+comment1.target=int\ getMove(State)
+comment1.text=\n\ Gets\ the\ move\ of\ the\ human\ player\n\ \n\ @param\ \ currentState\ \ \ the\ current\ state\ of\ the\ game\n\ @return\ \ \ \ \ returns\ the\ bin\ choosen\n
+comment2.params=
+comment2.target=void\ responseToInvalid()
+comment2.text=\n\ Responds\ to\ an\ Invalid\ Move\n\ \n
+numComments=3

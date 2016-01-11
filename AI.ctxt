@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AI()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ AI\n
+comment1.params=currentState
+comment1.target=int\ getMove(State)
+comment1.text=\n\ Gets\ the\ move\ of\ the\ AI\n\ \n\ @param\ \ currentState\ \ \ Current\ State\ that\ AI\ will\ evaluate\n\ @return\ \ \ \ \ move\ of\ the\ AI\n
+comment2.params=currentState\ currPlayer
+comment2.target=java.util.ArrayList\ expand(State,\ int)
+comment2.text=\n\ Expands\ the\ current\ game\ state\n\ \n\ @param\ currentState\ \ current\ state\ of\ the\ game\n\ @currPlayer\ currPlayer\ \ \ current\ player\n\ \n\ @return\ \ returns\ expanded\ list\n\ \n
+comment3.params=currentState
+comment3.target=int\ eval(State)
+comment4.params=currentState\ depth\ currPlayer
+comment4.target=int\ miniMax(State,\ int,\ int)
+comment5.params=
+comment5.target=void\ responseToInvalid()
+comment5.text=\n\ Response\ to\ invalid\ move\n\ \n
+numComments=6
